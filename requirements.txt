@@ -1,0 +1,7 @@
+ucimlrepo
+pandas
+scipy
+numpy
+scikit-learn
+openpyxl
+jinja2
